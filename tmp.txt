@@ -1,3 +1,5 @@
 gitの練習です
 git add
 git cpmmit -v
+git status
+git log --p
